@@ -1,4 +1,5 @@
-# Middleware Service
+# luthor -- LLM Middleware Service
+LUTHOR : **L**LM **U**tility for **T**ransforming and **O**rganizing **R**equests
 
 ## Requirement
   - Python 3.12
@@ -6,7 +7,7 @@
 
 ### To build
 - Run virtual env `python3.12 -m venv .venv;source .venv/bin/activate`
-- Build `make build`
+- Build `make install-dev`
 - Run `make run`
 
 Additionally
